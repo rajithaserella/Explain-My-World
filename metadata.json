@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Explain My World AI",
+  "description": "Advanced AI assistant with 'Safe or Scam?' detection, Live Form Filling guidance, and multilingual visual demystification.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
